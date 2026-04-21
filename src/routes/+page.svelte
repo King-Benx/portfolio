@@ -478,7 +478,7 @@
 			class="group flex cursor-pointer items-center gap-3 rounded-xl border border-slate-800 bg-slate-900/40 px-5 py-3 text-sm text-slate-300 transition hover:-translate-y-1 hover:border-slate-600 hover:bg-slate-800"
 		>
 			<span class="text-sky-400">✉️</span>
-			<span class="group-hover:text-white">your@email.com</span>
+			<span class="group-hover:text-white">benard.asiimwe.bataringaya@gmail.com</span>
 		</a>
 
 		<!-- LinkedIn -->
