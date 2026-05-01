@@ -54,10 +54,10 @@
 			years: 'JAN 2025 - Present, Kampala (UGANDA)',
 			location: 'REMOTE - FULLTIME',
 			details: [
-				'Co-founded and architected a scalable SaaS platform delivering cross-platform applications across web, desktop and mobile, achieving 99.9% uptime.',
-				'Established the engineering organization from inception, implementing scalable architecture, CI/CD pipelines, and modern development workflows to accelerate product development.',
-				'Led full-stack product development across frontend and backend systems, delivering production-grade features.',
-				'Improved backend performance and reliability by optimizing database access patterns and designing scalable data models.'
+				'Co-founded and scaled a software consultancy delivering EMR, lifestyle, and custom business platforms across web and mobile applications.',
+				'Led system architecture, backend engineering, and infrastructure strategy across multiple concurrent client projects.',
+				'Designed and implemented cloud infrastructure and CI/CD pipelines, reducing deployment times by over 60% and enabling faster release cycles.',
+				'Delivered and maintained production applications with 99.9% uptime across distributed environments.'
 			]
 		},
 		{
@@ -66,10 +66,10 @@
 			years: 'JAN 2025 - MAR 2026, Oslo (NORWAY)',
 			location: 'REMOTE - FULLTIME',
 			details: [
-				'Led full software development lifecycle for an education platform serving global users, providing educational infrastructure to both trainers and students.',
-				'Managed cross-functional engineering teams of developers, designers, and QA, increasing sprint delivery predictability by 25% through improved planning and code review processes.',
-				'Improved system scalability and performance, reducing deployment errors by 40% by introducing containerized environments using Docker and standardized architecture patterns.',
-				'Delivered production-grade features across frontend and backend systems.'
+				'Led backend architecture and engineering direction for a distributed education platform operating across multiple countries.',
+				'Managed and coordinated cross-functional teams of up to 12 engineers, improving delivery predictability and team efficiency.',
+				'Built high-performance backend systems in Go and GraphQL with strong reliability and zero reported production downtime during tenure.',
+				'Introduced Docker-based workflows and standardized engineering practices, reducing deployment-related issues by 50%.'
 			]
 		},
 		{
@@ -78,10 +78,10 @@
 			years: 'APR 2021 - JAN 2025, Oslo (NORWAY)',
 			location: 'REMOTE - FULLTIME',
 			details: [
-				'Designed scalable product architecture for a cloud presentation, video and storage platform, enabling support for thousands of concurrent users byimplementing microservice-based backend systems.',
-				'Improved engineering team productivity by 35% by establishing coding standards, CI/CD pipelines, and structured development processes.',
-				'Accelerated new engineer onboarding by 50% by implementing mentorship programs, pair programming, and technical documentation.',
-				'Delivered full-stack features across multiple product releases, improving platform stability and maintainability through modern frontend and backend frameworks'
+				'Led engineering delivery across 4 cross-functional teams of 6–8 engineers building video, storage, HR, chat, and presentation platforms.',
+				'Drove migration from legacy systems to scalable, secure cloud-based architectures, significantly improving platform stability and reliability.',
+				'Established CI/CD pipelines, engineering standards, and structured release processes, improving delivery consistency and reducing operational overhead.',
+				'Partnered with leadership on technical hiring, mentorship, and scaling engineering operations across multiple product teams.'
 			]
 		},
 		{
@@ -90,10 +90,9 @@
 			years: 'MAY 2023 - JUN 2024, York Shire (UNITED KINGDOM)',
 			location: 'REMOTE - PARTTIME',
 			details: [
-				'Led architecture and feasibility analysis for complex gaming and bespoke software systems, ensuring scalable solutions aligned with business goals.',
-				'Improved system performance and stability by 30% by conducting technical audits and implementing architecture improvements across backend services.',
-				'Delivered multiple high-impact bespoke projects for enterprise clients by coordinating engineering teams and managing technical delivery timeline',
-				'Developed full-stack solutions across cloud-based systems, integrating APIs and scalable backend services.'
+				'Led architecture and technical delivery for gaming and bespoke enterprise systems, including Dungeon & Dragons-related platforms.',
+				'Owned system architecture, technical documentation, and engineering oversight for a distributed team of 5 engineers.',
+				'Improved backend scalability and platform stability through infrastructure modernization and targeted technical audits.'
 			]
 		},
 		{
@@ -102,9 +101,8 @@
 			years: 'OCT 2022 - SEP 2023, London (UNITED KINGDOM)',
 			location: 'REMOTE - PARTTIME',
 			details: [
-				'Trained and mentored over 100 students in modern web development, improving course completion rates by 40% through hands-on project-based learning.',
-				'Designed production-ready curriculum covering React, JavaScript, and SQL, enabling students to build full-stack applications.',
-				'Guided students in building real-world software projects, preparing them for entry-level engineering roles.'
+				'Mentored and trained 100+ students in modern web development, software engineering principles, and project delivery.',
+				'Delivered structured technical workshops covering frontend development, databases, APIs, and engineering best practices.'
 			]
 		},
 		{
@@ -113,9 +111,9 @@
 			years: 'APR 2018 - JUN 2020, New York (USA)',
 			location: 'APR 2018 - JUN 2020, New York (USA)',
 			details: [
-				'Built and maintained client-facing platforms used by global enterprises, contributing to product development across multiple distributed teams.',
-				'Delivered scalable mobile and web applications, improving product delivery timelines by 25% through efficient collaboration and code optimization.',
-				'Integrated third-party APIs and services, enabling faster product feature development and improved system interoperability.'
+				'Worked with international clients including Premise Data and Medable Inc., contributing to data collection and clinical trial platforms.',
+				'Developed scalable Android and mobile-first applications for distributed engineering teams and enterprise clients.',
+				'Contributed to internal engineering tools while mentoring junior engineers and facilitating technical bootcamps.'
 			]
 		},
 		{
@@ -124,41 +122,19 @@
 			years: 'NOV 2018 - JUL 2019, San Francisco (USA)',
 			location: 'REMOTE - CONTRACT',
 			details: [
-				'Developed data analytics platform components supporting large-scale data collection and analysis, improving system reliability and data processingefficiency.',
-				'Optimized Android mobile application performance, reducing application latency by 20% through code optimization and architectural improvements.',
-				'Maintained high software quality standards by implementing testing and bug resolution workflows.'
+				'Developed analytics platform components supporting large-scale global data collection operations.',
+				'Improved Android application performance and reliability for field data collection workflows.',
+				'Collaborated with distributed engineering teams to deliver scalable mobile and backend solutions.'
 			]
 		},
 		{
-			company: 'ISBAT UNIVERSITY',
+			company: 'Earlier Consulting & Engineering Experience ',
 			role: 'Software Consultant',
-			years: 'JUN 2019 - DEC 2019, Kampala (UGANDA)',
+			years: 'JAN 2016 - DEC 2019, Kampala (UGANDA)',
 			location: 'HYBRID - CONTRACT',
 			details: [
-				'Developed custom university software systems, improving operational efficiency by digitizing institutional workflows.',
-				'Improved system reliability by 25% through QA testing and performance optimization.',
-				'Delivered technical support and system maintenance, ensuring continuous platform availability.'
-			]
-		},
-		{
-			company: 'APTECH COMPUTER EDUCATION',
-			role: 'Software Consultant',
-			years: 'SEP 2017 - APR 2018, Kampala (UGANDA)',
-			location: 'HYBRID - CONTRACT',
-			details: [
-				'Built secure internal software tools, improving operational workflows and reducing manual administrative tasks.',
-				'Improved application reliability through QA testing and performance improvements across existing systems'
-			]
-		},
-		{
-			company: 'NEUWELT UGANDA',
-			role: 'Software Engineer',
-			years: 'JAN 2016 - AUG 2018, Kampala (UGANDA)',
-			location: 'ONSITE - FULLTIME',
-			details: [
-				'Delivered custom client software solutions, improving business workflows and enabling digital transformation for multiple organizations.',
-				'Led full development lifecycle for multiple projects, ensuring on-time delivery and high-quality production releases.',
-				'Mentored junior developers, improving engineering team capabilities and coding standards.'
+				'Delivered software platforms, automation tools, and internal systems for education and business clients.',
+				'Built and maintained web applications, backend systems, and databases across multiple client engagements.'
 			]
 		}
 	];
@@ -236,7 +212,7 @@
 			<h1 class="text-4xl font-bold tracking-tight text-slate-100 md:text-5xl">
 				Benard Asiimwe Bataringaya
 			</h1>
-			<p class="text-sm text-slate-500">Founder • Senior Software Engineer • Engineering Leader</p>
+			<p class="text-sm text-slate-500">Founder • Senior Software Engineer • Engineering Manager</p>
 		</div>
 
 		<!-- Tagline -->
@@ -251,9 +227,11 @@
 
 		<!-- Bio -->
 		<p class="max-w-xl text-sm leading-relaxed text-slate-400">
-			I’m a Founder and Senior Software Engineer with 10+ years building and scaling software
-			systems. I’ve led teams across Europe, Africa, and the US, delivering web, mobile, and
-			distributed platforms. My focus is on performance, scalability, and thoughtful system design.
+			Engineering Manager and Senior Software Engineer with 10+ years of experience building and
+			scaling distributed web, mobile, and cloud platforms. Proven track record leading
+			cross-functional teams (5–30+ engineers), architecting production systems, and improving
+			system reliability, deployment speed, and engineering productivity across startups and
+			international companies.
 		</p>
 
 		<!-- CTA -->
