@@ -109,7 +109,7 @@
 			company: 'ANDELA',
 			role: 'Software Engineer',
 			years: 'APR 2018 - JUN 2020, New York (USA)',
-			location: 'APR 2018 - JUN 2020, New York (USA)',
+			location: 'REMOTE - FULLTIME',
 			details: [
 				'Worked with international clients including Premise Data and Medable Inc., contributing to data collection and clinical trial platforms.',
 				'Developed scalable Android and mobile-first applications for distributed engineering teams and enterprise clients.',
